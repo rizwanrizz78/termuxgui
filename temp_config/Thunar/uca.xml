@@ -1,0 +1,4515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+    <icon></icon>
+    <name>Compress to '7z' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>92933337</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to '7z' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to '7z' with password (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>92798456</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to '7z' with password (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'iso' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>30529432</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'iso' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'squashfs' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>51153902</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'squashfs' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'tar.gz' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>16692364</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'tar.gz' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'tar.xz' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>06871426</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'tar.xz' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'tar.zst' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>70493587</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'tar.zst' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress to 'zip' (each)</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>08885836</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress to 'zip' (each)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compress...</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>08302718</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Compress...&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Extract Here</name>
+    <submenu>Scripts/Archive</submenu>
+    <unique-id>17542193</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Archive/Extract Here&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'flac'</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>96649016</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'flac'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mp3' (192 kbps)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>26421556</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'mp3' (192 kbps)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mp3' (320 kbps)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>90310410</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'mp3' (320 kbps)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mp3' (48 kbps, mono)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>31539864</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'mp3' (48 kbps, mono)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'ogg' (192 kbps)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>20254996</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'ogg' (192 kbps)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'ogg' (320 kbps)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>42743665</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'ogg' (320 kbps)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'ogg' (48 kbps, mono)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>00492777</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'ogg' (48 kbps, mono)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'opus' (192 kbps, VBR)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>28937760</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'opus' (192 kbps, VBR)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'opus' (320 kbps, VBR)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>71200488</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'opus' (320 kbps, VBR)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'opus' (48 kbps, mono, VBR)</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>25261556</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'opus' (48 kbps, mono, VBR)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'wav'</name>
+    <submenu>Scripts/Audio/Audio convert</submenu>
+    <unique-id>50594318</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio convert/Convert to 'wav'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Effect Fade in</name>
+    <submenu>Scripts/Audio/Audio effects</submenu>
+    <unique-id>04783903</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio effects/Effect Fade in&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Effect Fade out</name>
+    <submenu>Scripts/Audio/Audio effects</submenu>
+    <unique-id>97691577</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio effects/Effect Fade out&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Effect Normalize</name>
+    <submenu>Scripts/Audio/Audio effects</submenu>
+    <unique-id>54380178</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio effects/Effect Normalize&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Remove silent sections (below -30 dB)</name>
+    <submenu>Scripts/Audio/Audio effects</submenu>
+    <unique-id>62390278</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio effects/Remove silent sections (below -30 dB)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Silence noise (below -30 dB)</name>
+    <submenu>Scripts/Audio/Audio effects</submenu>
+    <unique-id>43125783</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio effects/Silence noise (below -30 dB)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Concatenate files ('wav' output)</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>51217712</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/Concatenate files ('wav' output)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List audio quality</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>45285752</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/List audio quality&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Mix channels to mono</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>09620292</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/Mix channels to mono&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Mix two files ('wav' output)</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>95186123</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/Mix two files ('wav' output)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Produce a spectrogram</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>70356763</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/Produce a spectrogram&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Strip metadata (recursive)</name>
+    <submenu>Scripts/Audio/Audio tools</submenu>
+    <unique-id>52038479</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/Audio tools/Strip metadata (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List ID3 tags</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>01103695</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/List ID3 tags&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List MP3 information</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>04426659</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/List MP3 information&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Maximize gain (recursive)</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>46315832</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/Maximize gain (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Normalize gain (recursive)</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>89219403</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/Normalize gain (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Repair (recursive)</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>19217781</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/Repair (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Tag ID3 to filename (artist - title)</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>06980532</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/Tag ID3 to filename (artist - title)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Tag filename to ID3 (artist - title)</name>
+    <submenu>Scripts/Audio/MP3 files</submenu>
+    <unique-id>34481700</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Audio/MP3 files/Tag filename to ID3 (artist - title)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Copy filenames to clipboard</name>
+    <submenu>Scripts/Clipboard operations</submenu>
+    <unique-id>01779788</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Clipboard operations/Copy filenames to clipboard&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Download (URLs in clipboard)</name>
+    <submenu>Scripts/Clipboard operations</submenu>
+    <unique-id>65663961</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Clipboard operations/Download (URLs in clipboard)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git clone (URLs in clipboard)</name>
+    <submenu>Scripts/Clipboard operations</submenu>
+    <unique-id>32148925</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Clipboard operations/Git clone (URLs in clipboard)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compare items</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>26896289</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/Compare items&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Compare with diff</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>60798274</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/Compare with diff&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Flatten directory structure</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>34422341</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/Flatten directory structure&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List duplicate files</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>93049202</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List duplicate files&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List empty directories</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>78326409</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List empty directories&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List file information</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>10063172</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List file information&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List file information (ExifTool)</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>90819972</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List file information (ExifTool)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List file information (MediaInfo)</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>30243331</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List file information (MediaInfo)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List file mime</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>10551984</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List file mime&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List hidden items</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>83152367</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List hidden items&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List item properties</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>44518522</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List item properties&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List largest directories</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>68261049</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List largest directories&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List largest files</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>92841135</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List largest files&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List recently modified files</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>42284546</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/List recently modified files&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Open item location</name>
+    <submenu>Scripts/Directories and files</submenu>
+    <unique-id>60753164</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Directories and files/Open item location&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Combine multiple PDFs</name>
+    <submenu>Scripts/Document PDF/PDF combine, split</submenu>
+    <unique-id>06402437</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF combine, split/Combine multiple PDFs&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Split into single-page PDFs</name>
+    <submenu>Scripts/Document PDF/PDF combine, split</submenu>
+    <unique-id>96904561</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF combine, split/Split into single-page PDFs&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Decrypt (remove password)</name>
+    <submenu>Scripts/Document PDF/PDF encrypt, decrypt</submenu>
+    <unique-id>21373439</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF encrypt, decrypt/Decrypt (remove password)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Decrypt (remove security)</name>
+    <submenu>Scripts/Document PDF/PDF encrypt, decrypt</submenu>
+    <unique-id>35822834</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF encrypt, decrypt/Decrypt (remove security)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Encrypt (set a password)</name>
+    <submenu>Scripts/Document PDF/PDF encrypt, decrypt</submenu>
+    <unique-id>18340307</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF encrypt, decrypt/Encrypt (set a password)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List encrypted PDFs</name>
+    <submenu>Scripts/Document PDF/PDF encrypt, decrypt</submenu>
+    <unique-id>89393237</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF encrypt, decrypt/List encrypted PDFs&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Landscape 2 pages in 1 (1x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>64032002</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Landscape 2 pages in 1 (1x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Landscape 2 pages in 1 (2x1)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>19171682</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Landscape 2 pages in 1 (2x1)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Landscape 4 pages in 1 (2x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>90609648</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Landscape 4 pages in 1 (2x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Landscape 8 pages in 1 (2x4)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>73040325</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Landscape 8 pages in 1 (2x4)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Landscape 8 pages in 1 (4x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>07832693</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Landscape 8 pages in 1 (4x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Portrait 2 pages in 1 (1x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>11220815</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Portrait 2 pages in 1 (1x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Portrait 2 pages in 1 (2x1)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>27830953</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Portrait 2 pages in 1 (2x1)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Portrait 4 pages in 1 (2x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>81922952</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Portrait 4 pages in 1 (2x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Portrait 8 pages in 1 (2x4)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>07996606</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Portrait 8 pages in 1 (2x4)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Portrait 8 pages in 1 (4x2)</name>
+    <submenu>Scripts/Document PDF/PDF multiple-page layout</submenu>
+    <unique-id>01306211</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF multiple-page layout/Portrait 8 pages in 1 (4x2)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Linearize (optimize)</name>
+    <submenu>Scripts/Document PDF/PDF optimize, shrink</submenu>
+    <unique-id>08669480</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF optimize, shrink/Linearize (optimize)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List non-linearized PDFs</name>
+    <submenu>Scripts/Document PDF/PDF optimize, shrink</submenu>
+    <unique-id>34659502</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF optimize, shrink/List non-linearized PDFs&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Shrink (150 dpi, e-book)</name>
+    <submenu>Scripts/Document PDF/PDF optimize, shrink</submenu>
+    <unique-id>61248576</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF optimize, shrink/Shrink (150 dpi, e-book)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Shrink (300 dpi, printer)</name>
+    <submenu>Scripts/Document PDF/PDF optimize, shrink</submenu>
+    <unique-id>45086602</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF optimize, shrink/Shrink (300 dpi, printer)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paper size to A3</name>
+    <submenu>Scripts/Document PDF/PDF paper size</submenu>
+    <unique-id>53438823</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF paper size/Paper size to A3&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paper size to A4</name>
+    <submenu>Scripts/Document PDF/PDF paper size</submenu>
+    <unique-id>59748772</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF paper size/Paper size to A4&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paper size to A5</name>
+    <submenu>Scripts/Document PDF/PDF paper size</submenu>
+    <unique-id>27680722</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF paper size/Paper size to A5&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paper size to US Legal</name>
+    <submenu>Scripts/Document PDF/PDF paper size</submenu>
+    <unique-id>12503797</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF paper size/Paper size to US Legal&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paper size to US Letter</name>
+    <submenu>Scripts/Document PDF/PDF paper size</submenu>
+    <unique-id>77958361</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF paper size/Paper size to US Letter&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>PDF Rotate (180 deg)</name>
+    <submenu>Scripts/Document PDF/PDF rotate</submenu>
+    <unique-id>90499415</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF rotate/PDF Rotate (180 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>PDF Rotate (270 deg)</name>
+    <submenu>Scripts/Document PDF/PDF rotate</submenu>
+    <unique-id>60364146</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF rotate/PDF Rotate (270 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>PDF Rotate (90 deg)</name>
+    <submenu>Scripts/Document PDF/PDF rotate</submenu>
+    <unique-id>14964474</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF rotate/PDF Rotate (90 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List non-searchable PDFs</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>51306129</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/List non-searchable PDFs&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in English)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>66379293</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in English)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in French)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>12152359</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in French)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in German)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>98818766</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in German)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in Italian)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>69984845</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in Italian)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in Portuguese)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>84894559</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in Portuguese)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in Russian)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>16371397</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in Russian)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Text OCR (in Spanish)</name>
+    <submenu>Scripts/Document PDF/PDF text recognition (OCR)</submenu>
+    <unique-id>83469384</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF text recognition (OCR)/Text OCR (in Spanish)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add PDF watermark (overlay)</name>
+    <submenu>Scripts/Document PDF/PDF tools</submenu>
+    <unique-id>94238872</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF tools/Add PDF watermark (overlay)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add PDF watermark (underlay)</name>
+    <submenu>Scripts/Document PDF/PDF tools</submenu>
+    <unique-id>97629885</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF tools/Add PDF watermark (underlay)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'PDFA-2b'</name>
+    <submenu>Scripts/Document PDF/PDF tools</submenu>
+    <unique-id>12169862</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF tools/Convert to 'PDFA-2b'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Extract images</name>
+    <submenu>Scripts/Document PDF/PDF tools</submenu>
+    <unique-id>76772503</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF tools/Extract images&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Strip PDF metadata (ExifTool)</name>
+    <submenu>Scripts/Document PDF/PDF tools</submenu>
+    <unique-id>67112822</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document PDF/PDF tools/Strip PDF metadata (ExifTool)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'docx'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>66464820</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'docx'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'epub'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>69110401</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'epub'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'markdown'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>85064921</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'markdown'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'odp'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>95516407</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'odp'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'ods'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>70794011</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'ods'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'odt'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>44985260</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'odt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'pdf'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>26696035</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'pdf'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'pptx'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>97415918</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'pptx'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'txt'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>78540193</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'xlsx'</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>68244305</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Convert to 'xlsx'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Print documents</name>
+    <submenu>Scripts/Document</submenu>
+    <unique-id>73695636</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Document/Print documents&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Decrypt</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>77662637</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Decrypt&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Encrypt with password</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>55217062</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Encrypt with password&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Encrypt with password (ASCII)</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>31736546</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Encrypt with password (ASCII)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Encrypt with public keys</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>54436343</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Encrypt with public keys&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Encrypt with public keys (ASCII)</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>64022996</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Encrypt with public keys (ASCII)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Import key</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>91571354</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Import key&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Sign</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>72692885</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Sign&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Sign (ASCII)</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>72690767</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Sign (ASCII)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Sign (detached signature)</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>96922743</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Sign (detached signature)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>GPG Verify signature</name>
+    <submenu>Scripts/File encryption</submenu>
+    <unique-id>38480413</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File encryption/GPG Verify signature&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List permissions and owners</name>
+    <submenu>Scripts/File permissions</submenu>
+    <unique-id>96835015</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File permissions/List permissions and owners&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Reset permissions (recursive)</name>
+    <submenu>Scripts/File permissions</submenu>
+    <unique-id>14395356</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File permissions/Reset permissions (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Set executable</name>
+    <submenu>Scripts/File permissions</submenu>
+    <unique-id>52939008</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File permissions/Set executable&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Set executable for '.sh' (recursive)</name>
+    <submenu>Scripts/File permissions</submenu>
+    <unique-id>10512404</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/File permissions/Set executable for '.sh' (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git clean</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>32149624</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git clean&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git fetch</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>55097972</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git fetch&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git gc</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>52537515</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git gc&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git init</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>27783235</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git init&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git pull</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>85540173</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git pull&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Git reset full</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>19114055</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Git reset full&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List Git branches</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>07885430</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/List Git branches&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List Git log</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>44843777</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/List Git log&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List Git status</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>03699174</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/List Git status&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List Git tags</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>77790689</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/List Git tags&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Open repository website</name>
+    <submenu>Scripts/Git</submenu>
+    <unique-id>30196209</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Git/Open repository website&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List CRC32</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>35260277</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List CRC32&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List MD5</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>13404985</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List MD5&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List SHA-1</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>38385333</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List SHA-1&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List SHA-256</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>70874305</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List SHA-256&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List SHA-512</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>89686831</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List SHA-512&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List all file hashes</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>70273269</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/List all file hashes&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Produce 'md5sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>44268471</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Produce 'md5sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Produce 'sha1sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>99846616</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Produce 'sha1sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Produce 'sha256sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>85397060</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Produce 'sha256sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Produce 'sha512sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>37608976</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Produce 'sha512sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Verify 'md5sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>21304865</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Verify 'md5sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Verify 'sha1sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>82867523</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Verify 'sha1sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Verify 'sha256sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>12599912</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Verify 'sha256sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Verify 'sha512sum.txt'</name>
+    <submenu>Scripts/Hash and checksum</submenu>
+    <unique-id>86390986</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Hash and checksum/Verify 'sha512sum.txt'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Colorspace to Gray</name>
+    <submenu>Scripts/Image/Color operations</submenu>
+    <unique-id>13348019</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Color operations/Colorspace to Gray&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Desaturate (average)</name>
+    <submenu>Scripts/Image/Color operations</submenu>
+    <unique-id>18525553</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Color operations/Desaturate (average)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Desaturate (luma)</name>
+    <submenu>Scripts/Image/Color operations</submenu>
+    <unique-id>19519294</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Color operations/Desaturate (luma)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Generate images with multiple hues</name>
+    <submenu>Scripts/Image/Color operations</submenu>
+    <unique-id>32811325</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Color operations/Generate images with multiple hues&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Combine images into a 'gif'</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>78275606</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Combine images into a 'gif'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Combine images into a 'pdf'</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>42274374</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Combine images into a 'pdf'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Split into 2 (horizontally)</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>90760626</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Split into 2 (horizontally)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Split into 2 (vertically)</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>86712875</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Split into 2 (vertically)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Split into 4</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>32972643</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Split into 4&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Stack images (horizontally)</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>30071885</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Stack images (horizontally)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Stack images (vertically)</name>
+    <submenu>Scripts/Image/Combine, split</submenu>
+    <unique-id>55453453</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Combine, split/Stack images (vertically)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'bmp'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>27954071</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'bmp'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'gif'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>95963101</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'gif'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'jpg'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>95605065</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'jpg'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'png'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>03216548</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'png'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'tif'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>28697067</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'tif'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'webp'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>08433716</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Convert to 'webp'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export to 'pdf'</name>
+    <submenu>Scripts/Image/Convert</submenu>
+    <unique-id>60059307</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Convert/Export to 'pdf'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create 'png' icon (128 px)</name>
+    <submenu>Scripts/Image/Create icon</submenu>
+    <unique-id>61364561</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Create icon/Create 'png' icon (128 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create 'png' icon (256 px)</name>
+    <submenu>Scripts/Image/Create icon</submenu>
+    <unique-id>96633753</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Create icon/Create 'png' icon (256 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create 'png' icon (512 px)</name>
+    <submenu>Scripts/Image/Create icon</submenu>
+    <unique-id>71193530</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Create icon/Create 'png' icon (512 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create 'png' icon (64 px)</name>
+    <submenu>Scripts/Image/Create icon</submenu>
+    <unique-id>64936704</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Create icon/Create 'png' icon (64 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Automatic crop</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>99812297</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Automatic crop&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Automatic crop (15 pct)</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>06555390</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Automatic crop (15 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize (25 pct)</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>15960474</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Resize (25 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize (50 pct)</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>24788657</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Resize (50 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize (75 pct)</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>85011197</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Resize (75 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize and crop (1920x1080)</name>
+    <submenu>Scripts/Image/Crop, resize</submenu>
+    <unique-id>92038131</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Crop, resize/Resize and crop (1920x1080)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Flip (horizontally)</name>
+    <submenu>Scripts/Image/Flip, rotate</submenu>
+    <unique-id>45757415</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Flip, rotate/Flip (horizontally)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Flip (vertically)</name>
+    <submenu>Scripts/Image/Flip, rotate</submenu>
+    <unique-id>03985424</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Flip, rotate/Flip (vertically)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rotate (180 deg)</name>
+    <submenu>Scripts/Image/Flip, rotate</submenu>
+    <unique-id>19570238</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Flip, rotate/Rotate (180 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rotate (270 deg)</name>
+    <submenu>Scripts/Image/Flip, rotate</submenu>
+    <unique-id>52699022</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Flip, rotate/Rotate (270 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rotate (90 deg)</name>
+    <submenu>Scripts/Image/Flip, rotate</submenu>
+    <unique-id>35920955</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Flip, rotate/Rotate (90 deg)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Similarity (65 pct)</name>
+    <submenu>Scripts/Image/Image similarity</submenu>
+    <unique-id>09048623</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Image similarity/Similarity (65 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Similarity (75 pct)</name>
+    <submenu>Scripts/Image/Image similarity</submenu>
+    <unique-id>94891116</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Image similarity/Similarity (75 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Similarity (85 pct)</name>
+    <submenu>Scripts/Image/Image similarity</submenu>
+    <unique-id>40940665</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Image similarity/Similarity (85 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Similarity (95 pct)</name>
+    <submenu>Scripts/Image/Image similarity</submenu>
+    <unique-id>21983757</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Image similarity/Similarity (95 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Optimize 'png' images</name>
+    <submenu>Scripts/Image/Optimize</submenu>
+    <unique-id>13206475</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Optimize/Optimize 'png' images&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Strip metadata (ExifTool)</name>
+    <submenu>Scripts/Image/Optimize</submenu>
+    <unique-id>32297913</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Optimize/Strip metadata (ExifTool)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert 'svg' to 'svgz' (compress)</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>93480250</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Convert 'svg' to 'svgz' (compress)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert 'svgz' to 'svg' (decompress)</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>41633713</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Convert 'svgz' to 'svg' (decompress)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export 'svg' to 'eps'</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>26047884</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Export 'svg' to 'eps'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export 'svg' to 'pdf'</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>74254034</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Export 'svg' to 'pdf'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export 'svg' to 'png' (1024 px)</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>92914267</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Export 'svg' to 'png' (1024 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export 'svg' to 'png' (256 px)</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>52123705</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Export 'svg' to 'png' (256 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export 'svg' to 'png' (512 px)</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>72712138</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Export 'svg' to 'png' (512 px)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace fonts to 'Charter'</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>38556424</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Replace fonts to 'Charter'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace fonts to 'Helvetica'</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>93793716</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Replace fonts to 'Helvetica'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace fonts to 'Times'</name>
+    <submenu>Scripts/Image/SVG files</submenu>
+    <unique-id>97760391</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/SVG files/Replace fonts to 'Times'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in English)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>36788654</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in English)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in French)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>01617699</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in French)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in German)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>35887948</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in German)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in Italian)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>64694106</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in Italian)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in Portuguese)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>85055844</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in Portuguese)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in Russian)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>24815436</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in Russian)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Image OCR (in Spanish)</name>
+    <submenu>Scripts/Image/Text recognition (OCR)</submenu>
+    <unique-id>48149651</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Text recognition (OCR)/Image OCR (in Spanish)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Alpha to black</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>60986358</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Alpha to black&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Alpha to magenta</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>98408196</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Alpha to magenta&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Alpha to white</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>49149066</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Alpha to white&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Background to alpha</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>32228487</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Background to alpha&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Background to alpha (15 pct)</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>96579628</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Background to alpha (15 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Black to alpha</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>68228253</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Black to alpha&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Black to alpha (15 pct)</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>96827314</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Black to alpha (15 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Magenta to alpha</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>85069419</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Magenta to alpha&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Magenta to alpha (15 pct)</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>98936323</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/Magenta to alpha (15 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>White to alpha</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>44145918</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/White to alpha&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>White to alpha (15 pct)</name>
+    <submenu>Scripts/Image/Transparency</submenu>
+    <unique-id>62018703</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Transparency/White to alpha (15 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (center)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>71589599</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (center)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (north)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>34275653</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (north)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (northeast)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>72258730</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (northeast)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (northwest)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>80180901</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (northwest)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (south)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>95387808</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (south)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (southeast)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>95985329</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (southeast)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Add image watermark (southwest)</name>
+    <submenu>Scripts/Image/Watermark</submenu>
+    <unique-id>85215755</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Image/Watermark/Add image watermark (southwest)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create hard link here</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>26866609</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Create hard link here&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create hard link to...</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>05228350</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Create hard link to...&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create symbolic link here</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>08550607</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Create symbolic link here&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Create symbolic link to...</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>20533050</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Create symbolic link to...&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List broken links</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>57411526</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/List broken links&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List hard links</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>82443367</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/List hard links&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List symbolic links</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>53196766</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/List symbolic links&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paste as hard link</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>71173076</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Paste as hard link&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Paste as symbolic link</name>
+    <submenu>Scripts/Link operations</submenu>
+    <unique-id>77801529</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Link operations/Paste as symbolic link&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Code Editor</name>
+    <submenu>Scripts/Open with</submenu>
+    <unique-id>55624752</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Open with/Code Editor&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Disk Usage Analyzer</name>
+    <submenu>Scripts/Open with</submenu>
+    <unique-id>49945850</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Open with/Disk Usage Analyzer&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Terminal</name>
+    <submenu>Scripts/Open with</submenu>
+    <unique-id>23380106</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Open with/Terminal&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Encode to ASCII (translit.)</name>
+    <submenu>Scripts/Plain text/Text encodings</submenu>
+    <unique-id>65130015</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text encodings/Encode to ASCII (translit.)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Encode to ISO-8859-1</name>
+    <submenu>Scripts/Plain text/Text encodings</submenu>
+    <unique-id>40980008</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text encodings/Encode to ISO-8859-1&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Encode to UTF-8</name>
+    <submenu>Scripts/Plain text/Text encodings</submenu>
+    <unique-id>72709319</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text encodings/Encode to UTF-8&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List encodings</name>
+    <submenu>Scripts/Plain text/Text encodings</submenu>
+    <unique-id>17476032</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text encodings/List encodings&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert '4 spaces' to 'tabs'</name>
+    <submenu>Scripts/Plain text/Text indentation</submenu>
+    <unique-id>67563755</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text indentation/Convert '4 spaces' to 'tabs'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert '8 spaces' to 'tabs'</name>
+    <submenu>Scripts/Plain text/Text indentation</submenu>
+    <unique-id>33718326</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text indentation/Convert '8 spaces' to 'tabs'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert 'tabs' to '4 spaces'</name>
+    <submenu>Scripts/Plain text/Text indentation</submenu>
+    <unique-id>84945138</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text indentation/Convert 'tabs' to '4 spaces'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert 'tabs' to '8 spaces'</name>
+    <submenu>Scripts/Plain text/Text indentation</submenu>
+    <unique-id>29119175</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text indentation/Convert 'tabs' to '8 spaces'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Line breaks to CRLF (Windows)</name>
+    <submenu>Scripts/Plain text/Text line breaks</submenu>
+    <unique-id>00426075</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text line breaks/Line breaks to CRLF (Windows)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Line breaks to LF (Unix)</name>
+    <submenu>Scripts/Plain text/Text line breaks</submenu>
+    <unique-id>91814998</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text line breaks/Line breaks to LF (Unix)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List line breaks</name>
+    <submenu>Scripts/Plain text/Text line breaks</submenu>
+    <unique-id>68509556</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text line breaks/List line breaks&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List files issues</name>
+    <submenu>Scripts/Plain text/Text repair</submenu>
+    <unique-id>49418016</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text repair/List files issues&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List files with bad chars</name>
+    <submenu>Scripts/Plain text/Text repair</submenu>
+    <unique-id>92981487</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text repair/List files with bad chars&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Remove trailing spaces</name>
+    <submenu>Scripts/Plain text/Text repair</submenu>
+    <unique-id>29391967</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text repair/Remove trailing spaces&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Repair to UTF-8, CRLF (recursive)</name>
+    <submenu>Scripts/Plain text/Text repair</submenu>
+    <unique-id>21797642</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text repair/Repair to UTF-8, CRLF (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Repair to UTF-8, LF (recursive)</name>
+    <submenu>Scripts/Plain text/Text repair</submenu>
+    <unique-id>48870618</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text repair/Repair to UTF-8, LF (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List lines count</name>
+    <submenu>Scripts/Plain text/Text statistics</submenu>
+    <unique-id>88703191</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text statistics/List lines count&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List max line length</name>
+    <submenu>Scripts/Plain text/Text statistics</submenu>
+    <unique-id>08505736</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text statistics/List max line length&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>List words count</name>
+    <submenu>Scripts/Plain text/Text statistics</submenu>
+    <unique-id>83425597</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text statistics/List words count&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Combine multiple files</name>
+    <submenu>Scripts/Plain text/Text tools</submenu>
+    <unique-id>74759567</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Plain text/Text tools/Combine multiple files&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Remove accents (translit.)</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>82020682</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Remove accents (translit.)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Remove brackets</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>51275573</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Remove brackets&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to lowercase</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>04700694</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to lowercase&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to lowercase (recursive)</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>10452204</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to lowercase (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to sentence case</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>44994092</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to sentence case&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to title case</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>48876282</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to title case&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to uppercase</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>52084456</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to uppercase&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Rename to uppercase (recursive)</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>50777774</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Rename to uppercase (recursive)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace gaps with dashes</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>46423460</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Replace gaps with dashes&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace gaps with spaces</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>44543373</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Replace gaps with spaces&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Replace gaps with underscores</name>
+    <submenu>Scripts/Rename files</submenu>
+    <unique-id>22620590</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Rename files/Replace gaps with underscores&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Extract audio</name>
+    <submenu>Scripts/Video/Audio track</submenu>
+    <unique-id>08866577</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Audio track/Extract audio&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Remove audio</name>
+    <submenu>Scripts/Video/Audio track</submenu>
+    <unique-id>85417238</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Audio track/Remove audio&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Frame rate to 30 FPS</name>
+    <submenu>Scripts/Video/Change frame rate</submenu>
+    <unique-id>25561659</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Change frame rate/Frame rate to 30 FPS&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Frame rate to 60 FPS</name>
+    <submenu>Scripts/Video/Change frame rate</submenu>
+    <unique-id>73101839</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Change frame rate/Frame rate to 60 FPS&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Speed factor to 0.5</name>
+    <submenu>Scripts/Video/Change speed factor</submenu>
+    <unique-id>88410890</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Change speed factor/Speed factor to 0.5&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Speed factor to 1.5</name>
+    <submenu>Scripts/Video/Change speed factor</submenu>
+    <unique-id>71401004</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Change speed factor/Speed factor to 1.5&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Speed factor to 2.0</name>
+    <submenu>Scripts/Video/Change speed factor</submenu>
+    <unique-id>84975763</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Change speed factor/Speed factor to 2.0&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mkv'</name>
+    <submenu>Scripts/Video/Video convert</submenu>
+    <unique-id>37564831</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video convert/Convert to 'mkv'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mkv' (copy video)</name>
+    <submenu>Scripts/Video/Video convert</submenu>
+    <unique-id>45232765</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video convert/Convert to 'mkv' (copy video)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mp4'</name>
+    <submenu>Scripts/Video/Video convert</submenu>
+    <unique-id>28402783</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video convert/Convert to 'mp4'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Convert to 'mp4' (copy video)</name>
+    <submenu>Scripts/Video/Video convert</submenu>
+    <unique-id>52976401</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video convert/Convert to 'mp4' (copy video)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Export to 'gif'</name>
+    <submenu>Scripts/Video/Video convert</submenu>
+    <unique-id>59656583</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video convert/Export to 'gif'&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize video (25 pct)</name>
+    <submenu>Scripts/Video/Video resize</submenu>
+    <unique-id>17934292</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video resize/Resize video (25 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize video (50 pct)</name>
+    <submenu>Scripts/Video/Video resize</submenu>
+    <unique-id>25767244</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video resize/Resize video (50 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Resize video (75 pct)</name>
+    <submenu>Scripts/Video/Video resize</submenu>
+    <unique-id>84348247</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video resize/Resize video (75 pct)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Concatenate videos ('mp4' output)</name>
+    <submenu>Scripts/Video/Video tools</submenu>
+    <unique-id>94831782</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video tools/Concatenate videos ('mp4' output)&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+<action>
+    <icon></icon>
+    <name>Strip metadata</name>
+    <submenu>Scripts/Video/Video tools</submenu>
+    <unique-id>83114677</unique-id>
+    <command>bash &quot;/data/data/com.termux/files/home/.local/share/scripts/Video/Video tools/Strip metadata&quot; %F</command>
+    <description></description>
+    <range></range>
+    <patterns>*</patterns>
+    <directories/>
+    <audio-files/>
+    <image-files/>
+    <text-files/>
+    <video-files/>
+    <other-files/>
+</action>
+</actions>
